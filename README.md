@@ -1,0 +1,1 @@
+Contains a simple example Dockerfile which installs emacs, and changes the PS1 environment variable
